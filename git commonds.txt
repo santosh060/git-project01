@@ -1,16 +1,19 @@
 
  this command is used to clone the repository
+
+
 - git clone https://github.com/santosh060/git-project01.git
 
 
 
 
--git add -all
+      -git add -all
 
 
--git commit -m "commit massages"
+     -git commit -m "commit massages"
 
 
- -git commit -m "first commit"
+     -git commit -m "first commit"
 
 
+   - git repo link
