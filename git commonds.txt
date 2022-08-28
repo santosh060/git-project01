@@ -11,6 +11,6 @@
 -git commit -m "commit massages"
 
 
- 
+ -git commit -m "first commit"
 
 
