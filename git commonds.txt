@@ -17,3 +17,6 @@
 
 
    - git repo link
+   
+
+  - git add all 
