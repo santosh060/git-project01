@@ -2,7 +2,7 @@
  this command is used to clone the repository
 - git clone https://github.com/santosh060/git-project01.git
 
-
+-git inti
 
 
 -git add -all
